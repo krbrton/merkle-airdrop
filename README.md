@@ -1,13 +1,21 @@
-# Sample Hardhat Project
+# Merkle Airdrop Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+To run tests:
 
-Try running some of the following tasks:
+```bash
+npx hardhat test test/test-airdrop.ts                                                                                                                                             0 (4.511s) < 02:05:13
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
+  Airdrop
+    Create
+      ✔ invalid amount
+      ✔ invalid user count
+      ✔ invalid user count
+    Claim
+      ✔ invalid amount
+      ✔ invalid claimer
+      ✔ double claim
+      ✔ valid params
+
+
+  7 passing (1s)
 ```
