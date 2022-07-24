@@ -27,67 +27,67 @@
     },
     {
       "address": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
-      "txHash": "0xf8ebb64b49216917fe48c087f8b945d801fa558604888851e0583d7c71b5e590",
+      "txHash": "0x6f0b4bb8cdc23ecfd3130f889993527571c0d9384582bfddaa8049a98b5ac401",
       "kind": "transparent"
     },
     {
       "address": "0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6",
-      "txHash": "0x1e46034543f99f6ca0253a4fb352d5328c4e40b1fd5a3f26ea208e5b4b253af9",
+      "txHash": "0x709c12d02bad7ae45aca9ca515541b0368c84b86134d2088c29cc9ffb830a454",
       "kind": "transparent"
     },
     {
       "address": "0x8A791620dd6260079BF849Dc5567aDC3F2FdC318",
-      "txHash": "0x77b62e2cae460bab83cc1c1a009011f7003d12e11160a3d2d505e5887053399e",
+      "txHash": "0xab61b39238af40b5d51c196372e1f6d9025d16db098dd2eb21d7f5a9863a1745",
       "kind": "transparent"
     },
     {
       "address": "0x0DCd1Bf9A1b36cE34237eEaFef220932846BCD82",
-      "txHash": "0x4db269dcf45a4bd00c864d17ad82fbf09a0e30cf24d0326325189a6136e843b5",
+      "txHash": "0x03ab78e7ee4de60b674d2754421cf5715bcd31b7477c1235ecb10ccbda2477ca",
       "kind": "transparent"
     },
     {
       "address": "0x9A676e781A523b5d0C0e43731313A708CB607508",
-      "txHash": "0xad442d7f58fdecf19f93873ee9507248197c1a5f4a687af58e644539b2f927f3",
+      "txHash": "0xf730e8e6e2c3f582d314d253394b0e224369d2bf8b56503824dfe02ea0da5367",
       "kind": "transparent"
     },
     {
       "address": "0x68B1D87F95878fE05B998F19b66F4baba5De1aed",
-      "txHash": "0xc8f1d68d9b62df4a32dfd699a177493e577cca8a8b94c1050813f63a067c2ab4",
+      "txHash": "0x16f056cd7697c423d265a6d672731d991c592c348c21389ed6f87bffa1d6b002",
       "kind": "transparent"
     },
     {
       "address": "0x3Aa5ebB10DC797CAC828524e59A333d0A371443c",
-      "txHash": "0xa818d4fa7f7a65da1f8a238513ff8819bed8af5ff53e92d1f5161214c1e75434",
+      "txHash": "0xe1d83def720059b355ad67cd83198e4f891830ad4ed9c83fc86a7c9676919834",
       "kind": "transparent"
     },
     {
       "address": "0x322813Fd9A801c5507c9de605d63CEA4f2CE6c44",
-      "txHash": "0x3953bc2b2a09b8ebfe6042686ac0217e29c3a85d74b0b0e492b57a09ba7aa253",
+      "txHash": "0x057398f4c812b7940e8b04ca053b1ebd22fe9c4b352983dfcfebe831c7588c84",
       "kind": "transparent"
     },
     {
       "address": "0xa85233C63b9Ee964Add6F2cffe00Fd84eb32338f",
-      "txHash": "0x19bf3292defe38331ed382e58f848a086182755ef4579c64fb43ea125fe5b0a6",
+      "txHash": "0x62780b0c667dc0024703fea6f90dd26855f91412359df7eab932801f23b3797d",
       "kind": "transparent"
     },
     {
       "address": "0x67d269191c92Caf3cD7723F116c85e6E9bf55933",
-      "txHash": "0x4ffb4f82957c47d0963b2b4f5c6e17b679bea8db9c2282a47690782938c2ad5a",
+      "txHash": "0xa3d87929597ab1f0fb79bbd5ebafcd2d036967637ae6808e3f1ca6570730f767",
       "kind": "transparent"
     },
     {
       "address": "0xE6E340D132b5f46d1e472DebcD681B2aBc16e57E",
-      "txHash": "0x89eaa54b3cafadc26e2e6d2de159e41c6d8352735202e4ba1206b75fb3594558",
+      "txHash": "0x37b711a678386c8d54da2c90fc24e82cb3df4a09ce0949a1fda1026af28a2773",
       "kind": "transparent"
     },
     {
       "address": "0xa82fF9aFd8f496c3d6ac40E2a0F282E47488CFc9",
-      "txHash": "0x53c81f998421f839f6d8d512b6d83d8b652e98afb8b55eeb542bfcaf3d3b00e7",
+      "txHash": "0xcb62bd11c527ddc4cb81446be82ed1b8ac9cc3c9396dcc85414427a77c0e6429",
       "kind": "transparent"
     },
     {
       "address": "0x1613beB3B2C4f22Ee086B2b38C1476A3cE7f78E8",
-      "txHash": "0x67371da44b3a779285ed833d0f911a3df239f9322e2ac1611fe1d09a8f426fa1",
+      "txHash": "0x316cf54825d50ed05534408d3cd50e76c330bf99d6210d178f28fa44999546d5",
       "kind": "transparent"
     }
   ],
@@ -239,9 +239,9 @@
         }
       }
     },
-    "9753de4e29b17d87ca29b3dbd586afd0de2031e587756dff05f2752e7ad02323": {
+    "5985f88c88eb14fcf7fe4630a5789bd8bb61d5d5c1873c40be88445c7220579b": {
       "address": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
-      "txHash": "0x2325e74cda02408d2ca5e6a012481c55e550cb697a161303159b311e2effac2b",
+      "txHash": "0x600451f5a03571f87030443b155cd3148c0d9bacea127e0628d58b992bc90c13",
       "layout": {
         "storage": [
           {
@@ -291,15 +291,15 @@
             "slot": "101",
             "type": "t_uint64",
             "contract": "Airdrop",
-            "src": "contracts/Airdrop.sol:37"
+            "src": "contracts/Airdrop.sol:38"
           },
           {
             "label": "infos",
             "offset": 0,
             "slot": "102",
-            "type": "t_mapping(t_uint64,t_struct(AirdropInfo)597_storage)",
+            "type": "t_mapping(t_uint64,t_struct(AirdropInfo)599_storage)",
             "contract": "Airdrop",
-            "src": "contracts/Airdrop.sol:43"
+            "src": "contracts/Airdrop.sol:44"
           }
         ],
         "types": {
@@ -327,11 +327,11 @@
             "label": "mapping(address => bool)",
             "numberOfBytes": "32"
           },
-          "t_mapping(t_uint64,t_struct(AirdropInfo)597_storage)": {
+          "t_mapping(t_uint64,t_struct(AirdropInfo)599_storage)": {
             "label": "mapping(uint64 => struct Airdrop.AirdropInfo)",
             "numberOfBytes": "32"
           },
-          "t_struct(AirdropInfo)597_storage": {
+          "t_struct(AirdropInfo)599_storage": {
             "label": "struct Airdrop.AirdropInfo",
             "members": [
               {
@@ -365,25 +365,31 @@
                 "slot": "3"
               },
               {
-                "label": "keptCoef",
+                "label": "claimedAmount",
                 "type": "t_uint256",
                 "offset": 0,
                 "slot": "4"
               },
               {
+                "label": "keptCoef",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
                 "label": "token",
                 "type": "t_address",
                 "offset": 0,
-                "slot": "5"
+                "slot": "6"
               },
               {
                 "label": "merkleRoot",
                 "type": "t_bytes32",
                 "offset": 0,
-                "slot": "6"
+                "slot": "7"
               }
             ],
-            "numberOfBytes": "224"
+            "numberOfBytes": "256"
           },
           "t_uint256": {
             "label": "uint256",

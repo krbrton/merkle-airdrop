@@ -158,6 +158,7 @@ describe("Airdrop", () => {
       const user5ClaimTx = await airdrop.connect(user5).claim("0", user5Proof, user5Positions, ethers.utils.parseEther("500"));
 
       expect(user5ClaimTx).to.emit(airdrop, "Claimed");
+      expect(await token.balanceOf(airdrop.address)).to.eq(BigNumber.from(0));
     });
   });
 });

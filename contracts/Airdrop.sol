@@ -17,6 +17,7 @@ contract Airdrop is Initializable, OwnableUpgradeable {
         uint64 userClaimedCount;               // Number of users already claimed tokens
         mapping (address => bool) userClaimed; // Remember users who received their tokens
         uint256 keptAmount;                    // Amount of tokens that is kept by multiplying amount by keptCoef
+        uint256 claimedAmount;                 // Amount of tokens already claimed by users
         uint256 keptCoef;                      // Initially 20% and then quadratically decreases with every claim() call
         address token;                         // Address of token to distribute between users
         bytes32 merkleRoot;                    // All users with their amounts in one hash
@@ -104,9 +105,16 @@ contract Airdrop is Initializable, OwnableUpgradeable {
         airdropInfo.userClaimedCount += 1;
         // Save user received his tokens
         airdropInfo.userClaimed[msg.sender] = true;
-
         // Calculate final amount user receives from airdrop
         uint256 amount = _amount + rewardAmount - keptAmount;
+
+        // Tracking sent airdrops
+        airdropInfo.claimedAmount += amount;
+
+        // Transfer remain change and reward to the last claimer
+        if (airdropInfo.userClaimedCount == airdropInfo.userCount) {
+            amount += airdropInfo.amount - airdropInfo.claimedAmount;
+        }
 
         TransferHelper.safeTransfer(airdropInfo.token, msg.sender, amount);
 
